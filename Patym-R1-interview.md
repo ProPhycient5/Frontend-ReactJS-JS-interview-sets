@@ -14,3 +14,5 @@ DEBOUNCING, THROATLING
   Data Structure and Algorithm
   
   
+Result: **Rejected**
+  
