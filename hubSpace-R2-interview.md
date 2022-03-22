@@ -10,4 +10,4 @@ Questions from R2 were:
 4. One leetcode code challenge 👇🏼, which I was unable to solve: 
 https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 
-Results: Awaited.
+Results: Got an offer Letter.
